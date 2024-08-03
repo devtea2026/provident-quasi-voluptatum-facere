@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/provident-quasi-voluptatum-facere",
-  "version": "5.9.80",
+  "version": "5.9.81",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -477,5 +477,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/provident-quasi-voluptatum-facere/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
